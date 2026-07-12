@@ -1,0 +1,808 @@
+{
+  "project_name": "考研英语二词汇故事站",
+  "source_of_truth": "generated_vocab_index.json",
+  "stories": [
+    {
+      "story_id": "story-001",
+      "title": "巷子尽头的小图书馆",
+      "vocab_range": "0001-0050",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-002",
+      "title": "屋顶温室计划",
+      "vocab_range": "0051-0100",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-003",
+      "title": "夜班便利店后的问卷",
+      "vocab_range": "0101-0150",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-004",
+      "title": "十年后的回访名单",
+      "vocab_range": "0151-0200",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-005",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "0201-0250",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-006",
+      "title": "桥下市场的晨会",
+      "vocab_range": "0251-0300",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-007",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "0301-0350",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-008",
+      "title": "展柜背后的清单",
+      "vocab_range": "0351-0400",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-009",
+      "title": "北站天桥的回声",
+      "vocab_range": "0401-0450",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-010",
+      "title": "修复室里的蓝图",
+      "vocab_range": "0451-0500",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-011",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "0501-0550",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-012",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "0551-0600",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-013",
+      "title": "被风吹亮的山路",
+      "vocab_range": "0601-0650",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-014",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "0651-0700",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-015",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "0701-0750",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-016",
+      "title": "桥下市场的晨会",
+      "vocab_range": "0751-0800",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-017",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "0801-0850",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-018",
+      "title": "展柜背后的清单",
+      "vocab_range": "0851-0900",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-019",
+      "title": "北站天桥的回声",
+      "vocab_range": "0901-0950",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-020",
+      "title": "修复室里的蓝图",
+      "vocab_range": "0951-1000",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-021",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "1001-1050",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-022",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "1051-1100",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-023",
+      "title": "被风吹亮的山路",
+      "vocab_range": "1101-1150",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-024",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "1151-1200",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-025",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "1201-1250",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-026",
+      "title": "桥下市场的晨会",
+      "vocab_range": "1251-1300",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-027",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "1301-1350",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-028",
+      "title": "展柜背后的清单",
+      "vocab_range": "1351-1400",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-029",
+      "title": "北站天桥的回声",
+      "vocab_range": "1401-1450",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-030",
+      "title": "修复室里的蓝图",
+      "vocab_range": "1451-1500",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-031",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "1501-1550",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-032",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "1551-1600",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-033",
+      "title": "被风吹亮的山路",
+      "vocab_range": "1601-1650",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-034",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "1651-1700",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-035",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "1701-1750",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-036",
+      "title": "桥下市场的晨会",
+      "vocab_range": "1751-1800",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-037",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "1801-1850",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-038",
+      "title": "展柜背后的清单",
+      "vocab_range": "1851-1900",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-039",
+      "title": "北站天桥的回声",
+      "vocab_range": "1901-1950",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-040",
+      "title": "修复室里的蓝图",
+      "vocab_range": "1951-2000",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-041",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "2001-2050",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-042",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "2051-2100",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-043",
+      "title": "被风吹亮的山路",
+      "vocab_range": "2101-2150",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-044",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "2151-2200",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-045",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "2201-2250",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-046",
+      "title": "桥下市场的晨会",
+      "vocab_range": "2251-2300",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-047",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "2301-2350",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-048",
+      "title": "展柜背后的清单",
+      "vocab_range": "2351-2400",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-049",
+      "title": "北站天桥的回声",
+      "vocab_range": "2401-2450",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-050",
+      "title": "修复室里的蓝图",
+      "vocab_range": "2451-2500",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-051",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "2501-2550",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-052",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "2551-2600",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-053",
+      "title": "被风吹亮的山路",
+      "vocab_range": "2601-2650",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-054",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "2651-2700",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-055",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "2701-2750",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-056",
+      "title": "桥下市场的晨会",
+      "vocab_range": "2751-2800",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-057",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "2801-2850",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-058",
+      "title": "展柜背后的清单",
+      "vocab_range": "2851-2900",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-059",
+      "title": "北站天桥的回声",
+      "vocab_range": "2901-2950",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-060",
+      "title": "修复室里的蓝图",
+      "vocab_range": "2951-3000",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-061",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "3001-3050",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-062",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "3051-3100",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-063",
+      "title": "被风吹亮的山路",
+      "vocab_range": "3101-3150",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-064",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "3151-3200",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-065",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "3201-3250",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-066",
+      "title": "桥下市场的晨会",
+      "vocab_range": "3251-3300",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-067",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "3301-3350",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-068",
+      "title": "展柜背后的清单",
+      "vocab_range": "3351-3400",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-069",
+      "title": "北站天桥的回声",
+      "vocab_range": "3401-3450",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-070",
+      "title": "修复室里的蓝图",
+      "vocab_range": "3451-3500",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-071",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "3501-3550",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-072",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "3551-3600",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-073",
+      "title": "被风吹亮的山路",
+      "vocab_range": "3601-3650",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-074",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "3651-3700",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-075",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "3701-3750",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-076",
+      "title": "桥下市场的晨会",
+      "vocab_range": "3751-3800",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-077",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "3801-3850",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-078",
+      "title": "展柜背后的清单",
+      "vocab_range": "3851-3900",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-079",
+      "title": "北站天桥的回声",
+      "vocab_range": "3901-3950",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-080",
+      "title": "修复室里的蓝图",
+      "vocab_range": "3951-4000",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-081",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "4001-4050",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-082",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "4051-4100",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-083",
+      "title": "被风吹亮的山路",
+      "vocab_range": "4101-4150",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-084",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "4151-4200",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-085",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "4201-4250",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-086",
+      "title": "桥下市场的晨会",
+      "vocab_range": "4251-4300",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-087",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "4301-4350",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-088",
+      "title": "展柜背后的清单",
+      "vocab_range": "4351-4400",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-089",
+      "title": "北站天桥的回声",
+      "vocab_range": "4401-4450",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-090",
+      "title": "修复室里的蓝图",
+      "vocab_range": "4451-4500",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-091",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "4501-4550",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-092",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "4551-4600",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-093",
+      "title": "被风吹亮的山路",
+      "vocab_range": "4601-4650",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-094",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "4651-4700",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-095",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "4701-4750",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-096",
+      "title": "桥下市场的晨会",
+      "vocab_range": "4751-4800",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-097",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "4801-4850",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-098",
+      "title": "展柜背后的清单",
+      "vocab_range": "4851-4900",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-099",
+      "title": "北站天桥的回声",
+      "vocab_range": "4901-4950",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-100",
+      "title": "修复室里的蓝图",
+      "vocab_range": "4951-5000",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-101",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "5001-5050",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-102",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "5051-5100",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-103",
+      "title": "被风吹亮的山路",
+      "vocab_range": "5101-5150",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-104",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "5151-5200",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-105",
+      "title": "旧剧场的最后一盏灯",
+      "vocab_range": "5201-5250",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-106",
+      "title": "桥下市场的晨会",
+      "vocab_range": "5251-5300",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-107",
+      "title": "深夜诊室外的长椅",
+      "vocab_range": "5301-5350",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-108",
+      "title": "展柜背后的清单",
+      "vocab_range": "5351-5400",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-109",
+      "title": "北站天桥的回声",
+      "vocab_range": "5401-5450",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-110",
+      "title": "修复室里的蓝图",
+      "vocab_range": "5451-5500",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-111",
+      "title": "河岸边的旧仓库",
+      "vocab_range": "5501-5550",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-112",
+      "title": "凌晨四点的广播站",
+      "vocab_range": "5551-5600",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-113",
+      "title": "被风吹亮的山路",
+      "vocab_range": "5601-5650",
+      "word_count": 50,
+      "created_status": "completed_priority_content_v1"
+    },
+    {
+      "story_id": "story-114",
+      "title": "雨季后的苗圃名单",
+      "vocab_range": "5651-5681",
+      "word_count": 31,
+      "created_status": "completed_priority_content_v1"
+    }
+  ],
+  "next_story": {
+    "story_id": null,
+    "expected_range": null
+  }
+}

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>考研英语二词汇故事站</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand-block">
+        <p class="brand-kicker">Vocabulary + Reading</p>
+        <h1>考研英语二词汇故事站</h1>
+        <p class="brand-copy">按固定词库顺序分成 114 篇。目录分页展示，单篇打开学习，不会把所有内容堆在一个页面里。</p>
+      </div>
+
+      <section class="sidebar-panel">
+        <div class="section-head">
+          <h2>篇目目录</h2>
+          <span id="story-count" class="count-pill"></span>
+        </div>
+        <div class="catalog-toolbar">
+          <button id="catalog-prev" class="ghost-btn" type="button">上一组</button>
+          <span id="catalog-page" class="catalog-page"></span>
+          <button id="catalog-next" class="ghost-btn" type="button">下一组</button>
+        </div>
+        <div id="story-list" class="story-list"></div>
+      </section>
+
+      <section class="sidebar-panel control-panel">
+        <h2>显示控制</h2>
+        <div class="control-stack">
+          <button id="toggle-inline-gloss" class="ghost-btn" type="button">显示词后释义</button>
+          <button id="toggle-reading-translation" class="ghost-btn" type="button">显示阅读中文</button>
+          <button id="toggle-answer-panel" class="ghost-btn" type="button">显示答案解析</button>
+        </div>
+      </section>
+
+      <section class="sidebar-panel note-panel">
+        <h2>归档状态</h2>
+        <p id="vocab-source-note">本地词库加载中…</p>
+      </section>
+    </aside>
+
+    <main class="main-area">
+      <section class="hero-card">
+        <div>
+          <p id="story-range" class="brand-kicker"></p>
+          <h2 id="story-title"></h2>
+          <p id="story-subtitle" class="hero-copy"></p>
+        </div>
+        <div class="hero-badges">
+          <span class="meta-pill">固定词库归档</span>
+          <span class="meta-pill">50词一篇</span>
+          <span id="theme-pill" class="meta-pill"></span>
+        </div>
+      </section>
+
+      <section class="split-grid">
+        <article class="content-card">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">Part 1</p>
+              <h3>词汇学习区</h3>
+            </div>
+            <span id="story-status" class="status-pill"></span>
+          </div>
+
+          <div class="word-bank-header">
+            <h4>本篇目标词</h4>
+            <p id="word-bank-note">已按本地固定词库顺序载入。</p>
+          </div>
+
+          <div id="word-bank" class="word-bank"></div>
+          <div id="vocab-story" class="cn-story"></div>
+        </article>
+
+        <article class="content-card">
+          <div class="section-head">
+            <div>
+              <p class="section-kicker">Part 2</p>
+              <h3>阅读理解区</h3>
+            </div>
+            <div class="action-row">
+              <button id="check-btn" class="primary-btn" type="button">提交答案</button>
+              <button id="reset-btn" class="ghost-btn" type="button">重新作答</button>
+            </div>
+          </div>
+
+          <p id="reading-note" class="reading-note"></p>
+          <div id="reading-passage" class="reading-sentence-list"></div>
+          <form id="quiz-form" class="quiz-form"></form>
+          <div id="result-box" class="result-box"></div>
+          <div id="analysis-panel" class="analysis-panel hidden">
+            <div id="analysis-list" class="analysis-list"></div>
+          </div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="./vocabulary_index.js"></script>
+  <script src="./story_catalog.js"></script>
+  <script src="./stories.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

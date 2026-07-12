@@ -1,0 +1,421 @@
+{
+  "generatedAt": "2026-07-12T05:11:01.827Z",
+  "method": [
+    "原始总词表来源：source/kaoyan_2025_5500_source.txt",
+    "重点候选来源：source/kaoyan2_core_2371.txt（英语二核心高频词表）",
+    "排序依据：source/netem_full_list.json（考研词频排序表）",
+    "生成规则：先取英语二核心词中与总词表重合的词，去掉明显功能词和连接词，再按考研词频排序。"
+  ],
+  "stats": {
+    "sourceUnique": 5681,
+    "coreUnique": 2289,
+    "matchedPriority": 2077,
+    "filteredPriority": 2042,
+    "missingFromSource": 212,
+    "rankedInNetem": 2022
+  },
+  "first50": [
+    {
+      "learnId": "0001",
+      "word": "follow",
+      "netemRank": 54,
+      "netemFreq": 3014
+    },
+    {
+      "learnId": "0002",
+      "word": "base",
+      "netemRank": 80,
+      "netemFreq": 2332
+    },
+    {
+      "learnId": "0003",
+      "word": "child",
+      "netemRank": 89,
+      "netemFreq": 2149
+    },
+    {
+      "learnId": "0004",
+      "word": "choice",
+      "netemRank": 103,
+      "netemFreq": 1823
+    },
+    {
+      "learnId": "0005",
+      "word": "direction",
+      "netemRank": 105,
+      "netemFreq": 1778
+    },
+    {
+      "learnId": "0006",
+      "word": "job",
+      "netemRank": 114,
+      "netemFreq": 1606
+    },
+    {
+      "learnId": "0007",
+      "word": "author",
+      "netemRank": 128,
+      "netemFreq": 1492
+    },
+    {
+      "learnId": "0008",
+      "word": "mean",
+      "netemRank": 134,
+      "netemFreq": 1424
+    },
+    {
+      "learnId": "0009",
+      "word": "state",
+      "netemRank": 146,
+      "netemFreq": 1234
+    },
+    {
+      "learnId": "0010",
+      "word": "choose",
+      "netemRank": 151,
+      "netemFreq": 1201
+    },
+    {
+      "learnId": "0011",
+      "word": "information",
+      "netemRank": 163,
+      "netemFreq": 1146
+    },
+    {
+      "learnId": "0012",
+      "word": "business",
+      "netemRank": 166,
+      "netemFreq": 1128
+    },
+    {
+      "learnId": "0013",
+      "word": "research",
+      "netemRank": 168,
+      "netemFreq": 1115
+    },
+    {
+      "learnId": "0014",
+      "word": "number",
+      "netemRank": 170,
+      "netemFreq": 1090
+    },
+    {
+      "learnId": "0015",
+      "word": "single",
+      "netemRank": 171,
+      "netemFreq": 1084
+    },
+    {
+      "learnId": "0016",
+      "word": "paragraph",
+      "netemRank": 179,
+      "netemFreq": 1031
+    },
+    {
+      "learnId": "0017",
+      "word": "provide",
+      "netemRank": 180,
+      "netemFreq": 1013
+    },
+    {
+      "learnId": "0018",
+      "word": "different",
+      "netemRank": 184,
+      "netemFreq": 994
+    },
+    {
+      "learnId": "0019",
+      "word": "last",
+      "netemRank": 186,
+      "netemFreq": 982
+    },
+    {
+      "learnId": "0020",
+      "word": "correspond",
+      "netemRank": 188,
+      "netemFreq": 968
+    },
+    {
+      "learnId": "0021",
+      "word": "education",
+      "netemRank": 189,
+      "netemFreq": 958
+    },
+    {
+      "learnId": "0022",
+      "word": "language",
+      "netemRank": 192,
+      "netemFreq": 928
+    },
+    {
+      "learnId": "0023",
+      "word": "government",
+      "netemRank": 197,
+      "netemFreq": 890
+    },
+    {
+      "learnId": "0024",
+      "word": "system",
+      "netemRank": 202,
+      "netemFreq": 878
+    },
+    {
+      "learnId": "0025",
+      "word": "blank",
+      "netemRank": 204,
+      "netemFreq": 866
+    },
+    {
+      "learnId": "0026",
+      "word": "report",
+      "netemRank": 217,
+      "netemFreq": 810
+    },
+    {
+      "learnId": "0027",
+      "word": "health",
+      "netemRank": 221,
+      "netemFreq": 796
+    },
+    {
+      "learnId": "0028",
+      "word": "large",
+      "netemRank": 224,
+      "netemFreq": 790
+    },
+    {
+      "learnId": "0029",
+      "word": "develop",
+      "netemRank": 227,
+      "netemFreq": 788
+    },
+    {
+      "learnId": "0030",
+      "word": "during",
+      "netemRank": 232,
+      "netemFreq": 780
+    },
+    {
+      "learnId": "0031",
+      "word": "science",
+      "netemRank": 233,
+      "netemFreq": 773
+    },
+    {
+      "learnId": "0032",
+      "word": "allow",
+      "netemRank": 234,
+      "netemFreq": 773
+    },
+    {
+      "learnId": "0033",
+      "word": "leave",
+      "netemRank": 236,
+      "netemFreq": 769
+    },
+    {
+      "learnId": "0034",
+      "word": "require",
+      "netemRank": 239,
+      "netemFreq": 767
+    },
+    {
+      "learnId": "0035",
+      "word": "statement",
+      "netemRank": 241,
+      "netemFreq": 764
+    },
+    {
+      "learnId": "0036",
+      "word": "society",
+      "netemRank": 242,
+      "netemFreq": 761
+    },
+    {
+      "learnId": "0037",
+      "word": "technology",
+      "netemRank": 246,
+      "netemFreq": 746
+    },
+    {
+      "learnId": "0038",
+      "word": "grow",
+      "netemRank": 247,
+      "netemFreq": 734
+    },
+    {
+      "learnId": "0039",
+      "word": "economic",
+      "netemRank": 252,
+      "netemFreq": 715
+    },
+    {
+      "learnId": "0040",
+      "word": "lead",
+      "netemRank": 255,
+      "netemFreq": 707
+    },
+    {
+      "learnId": "0041",
+      "word": "little",
+      "netemRank": 260,
+      "netemFreq": 688
+    },
+    {
+      "learnId": "0042",
+      "word": "class",
+      "netemRank": 264,
+      "netemFreq": 682
+    },
+    {
+      "learnId": "0043",
+      "word": "effect",
+      "netemRank": 267,
+      "netemFreq": 676
+    },
+    {
+      "learnId": "0044",
+      "word": "comprehension",
+      "netemRank": 268,
+      "netemFreq": 673
+    },
+    {
+      "learnId": "0045",
+      "word": "tell",
+      "netemRank": 270,
+      "netemFreq": 671
+    },
+    {
+      "learnId": "0046",
+      "word": "likely",
+      "netemRank": 274,
+      "netemFreq": 659
+    },
+    {
+      "learnId": "0047",
+      "word": "course",
+      "netemRank": 276,
+      "netemFreq": 657
+    },
+    {
+      "learnId": "0048",
+      "word": "buy",
+      "netemRank": 277,
+      "netemFreq": 656
+    },
+    {
+      "learnId": "0049",
+      "word": "offer",
+      "netemRank": 279,
+      "netemFreq": 649
+    },
+    {
+      "learnId": "0050",
+      "word": "service",
+      "netemRank": 280,
+      "netemFreq": 648
+    }
+  ],
+  "sampleMissing": [
+    "modernize",
+    "prediction",
+    "protection",
+    "quotation",
+    "ruby",
+    "stockpile",
+    "worthless",
+    "achievement",
+    "agreement",
+    "proverb",
+    "leader",
+    "emotional",
+    "indulgence",
+    "maturity",
+    "insensitive",
+    "transformation",
+    "respectful",
+    "practically",
+    "devalue",
+    "overvalue",
+    "inferiority",
+    "supporter",
+    "distraction",
+    "roughly",
+    "appropriately",
+    "affordable",
+    "related",
+    "biologist",
+    "appreciation",
+    "overestimate",
+    "negotiation",
+    "capitalism",
+    "researcher",
+    "dreary",
+    "immersive",
+    "unjust",
+    "recommendatio",
+    "opposition",
+    "avoidable",
+    "attraction",
+    "generally",
+    "inherently",
+    "necessarily",
+    "overwhelming",
+    "programmer",
+    "competitor",
+    "determined",
+    "determination",
+    "modesty",
+    "relatively",
+    "defendant",
+    "endless",
+    "establishment",
+    "freezer",
+    "conventional",
+    "devotion",
+    "investor",
+    "discrimination",
+    "uncertain",
+    "uncertainty",
+    "traditional",
+    "milestone",
+    "downturn",
+    "immigration",
+    "mighty",
+    "downtime",
+    "innocence",
+    "creativity",
+    "win-win",
+    "hostel",
+    "ought",
+    "perception",
+    "manageable",
+    "online",
+    "visibility",
+    "europe",
+    "european",
+    "full-time",
+    "part-time",
+    "presentation",
+    "stimulus",
+    "suggestive",
+    "psychological",
+    "comfortable",
+    "girlhood",
+    "hopeless",
+    "validation",
+    "regulatory",
+    "industrious",
+    "infuse",
+    "devaluation",
+    "outdoors",
+    "inducement",
+    "grocery",
+    "upmarket",
+    "high-profile",
+    "retirement",
+    "beggar",
+    "idleness",
+    "indicator"
+  ]
+}
